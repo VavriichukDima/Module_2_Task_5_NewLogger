@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Module_2_Task_1", "Module_2_Task_1_v.2\Module_2_Task_1.csproj", "{D67F7DF6-69AB-4540-8419-52B96941169D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{A4F9E2B2-96D1-48E8-9B4C-36D6B4845B77}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\settings.ruleset = ..\..\..\Desktop\settings.ruleset
+		..\..\..\Desktop\stylecop.json = ..\..\..\Desktop\stylecop.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D67F7DF6-69AB-4540-8419-52B96941169D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67F7DF6-69AB-4540-8419-52B96941169D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67F7DF6-69AB-4540-8419-52B96941169D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67F7DF6-69AB-4540-8419-52B96941169D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40FAA9F0-ACE7-408B-9892-A03BA88ACDA5}
+	EndGlobalSection
+EndGlobal
